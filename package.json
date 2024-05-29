@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "this is project yt",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.javascript"
   },
@@ -14,6 +14,7 @@
   "author": "Priyanshu",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.2"
+    "nodemon": "^3.1.2",
+    "prettier": "^3.2.5"
   }
 }
